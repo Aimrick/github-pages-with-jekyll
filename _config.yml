@@ -1,5 +1,5 @@
 ---
-title: " Words of affirmation"
+title: "Welcome to my blog"
 date: 2022-08-02
 ---
 
@@ -19,7 +19,4 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
----
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
----
+
